@@ -1,5 +1,3 @@
-### Hi there 👋
-
 QA Engineer/Junior Test Automation Engineer, https://www.linkedin.com/in/daria-langina
 
 - I work for R-vision
