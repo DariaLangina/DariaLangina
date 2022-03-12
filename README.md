@@ -1,4 +1,4 @@
 QA Engineer/Junior Test Automation Engineer, https://www.linkedin.com/in/daria-langina
 
 - I work for R-vision
-- I’m currently learning at QA Automation school (qa.guru) 
+- I've finished the Automation Testing course (qa.guru) 
